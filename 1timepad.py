@@ -74,81 +74,8 @@ print("".join(character_list))
 
 
 
-#characters = [unichr(n + 96) for n in (CipherList)]
-#print "herearechar;", (characters)
 
 
-
-#CipherList = []
-#for item in (CipherTuple):
-#   TupleToList = item
-#   CipherList.append(TupleToList)
-#print (CipherList)
-
-## turn list to int
-#CipherInt = [ord(i) for i in (CipherTuple)]
-#print "Int List is:", (CipherInt)
-
-
-#print [ord(char) - 96 for char in (CipherInt)]
-
-#CipherStr = str(CipherList)
-#print "hereiscipherstr", (CipherStr)
-## turn cipher string into letters
-#EncrypNum[]
-#for item in (CipherStr)
-    
-
-## turn list to int
-#CipherInt = [int(i) for i in (CipherList)]
-#print "Int List is:", (CipherInt)
-
-
-
-
-#IntList = int(',' .join(map(str, list(CipherTuple))))
-
-#print "here is IntList", IntList
-
-## encrypt
-#EncMess = chr(CipherStr)
-#print "here is the encrypted message", (EncMess)
-
-
-### - i need to get the tuple in a list. convert the list to letters then combine the letters for the encryption.
-
-
-
-
-
-
-
-    
-
-#Convert tuple to list
-#CipherList = [int(i) for i in (CipherTuple)]
-#print "here is cipherlist", int(CipherList)
-#print "here is encryption", chr(CipherList)
-
-
- 
-
-#attempt to encrypt
-
-#Encrypt = []
-
-#for number in CipherList:
-
-#  letter = chr(number) - 96
-
-#  Encrypt.append(letter)
-
-#print "here is encryption", Encrypt
-
-
-## encrypt
-#EncMess = chr(SCipherList)
-#print "here is the encrypted message", (EncMess)
 
 
 
