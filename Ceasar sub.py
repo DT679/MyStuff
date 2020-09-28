@@ -1,6 +1,6 @@
 
 
-print "Welcome to Donna Pinion's Ceasar Cipher for CS 636"
+print "Welcome to Ceasar Cipher"
 
 message = raw_input('Please enter your message:')
 
